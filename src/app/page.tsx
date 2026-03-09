@@ -84,8 +84,6 @@ const Home = () => {
             Dime algo bonicooo
           </button>
         </div>
-        
-
     </div>
   );
 };
