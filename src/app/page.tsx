@@ -81,7 +81,7 @@ const Home = () => {
               );
             }}
           >
-            Dime algo bonito
+            Dime algo bonicooo
           </button>
         </div>
         
